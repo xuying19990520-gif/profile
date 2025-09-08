@@ -1,5 +1,3 @@
-# profile
-徐頴です
 <!DOCTYPE html>
 <html lang="en">
 <head>
