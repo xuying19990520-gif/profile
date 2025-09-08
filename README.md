@@ -43,7 +43,3 @@
 </section>
 
 </body>
-
-
-</body>
-</html>
